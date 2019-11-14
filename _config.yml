@@ -19,7 +19,7 @@ social:
   - title: github
     url: https://github.com/ttmo-O
   - title: telegram
-    url: t.me/ttmo_O
+    url: https://t.me/ttmo_O
 
 # Build settings
 markdown: kramdown
