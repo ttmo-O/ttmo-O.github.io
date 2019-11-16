@@ -37,7 +37,7 @@ p, ul, ol {
 }
 
 @media(min-width:767px) {
-    p {
+    p, ul, ol {
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
@@ -184,7 +184,7 @@ a:focus {
     font-size: 40px;
     color: #fff;
     background: 0 0;
-    -webkit-transition: background .3s ease-in-out;
+    -webkit-transition: background .3s eafont-size: 20px;se-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
 }
