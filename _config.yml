@@ -20,6 +20,8 @@ social:
     url: https://github.com/ttmo-O
   - title: telegram
     url: https://t.me/ttmo_O
+  - title: archive.org
+    url: https://archive.org/details/@tersinemuhendislerodasi
 
 # Build settings
 markdown: kramdown
