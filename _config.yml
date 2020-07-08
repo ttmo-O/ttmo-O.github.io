@@ -16,10 +16,12 @@ footer: TTMO
 social:
   - title: twitter
     url: https://twitter.com/__TTMO__
-  - title: github
-    url: https://github.com/ttmo-O
   - title: telegram
     url: https://t.me/ttmo_O
+  - title: twitch
+    url: http://twitch.tv/tersinemuhendislerodasi
+  - title: github
+    url: https://github.com/ttmo-O
   - title: archive.org
     url: https://archive.org/details/@tersinemuhendislerodasi
 
